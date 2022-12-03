@@ -1,0 +1,34 @@
+body {
+    background-color: lightgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+}
+
+h3 {
+    color: red;
+}
+
+p {
+    color: white; 
+    font-weight: bold;
+}
+
+strong, em {
+    color: green;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a {
+    font-size: 20px;
+}
